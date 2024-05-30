@@ -94,7 +94,8 @@ public:
 				FRONT++;
 			}
 
-			FRONT = 0; 
+		
+
 		}
 	}
 	
